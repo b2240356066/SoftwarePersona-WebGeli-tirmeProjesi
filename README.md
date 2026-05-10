@@ -36,3 +36,23 @@ src/
 ├── Pages/         # Home.jsx (Ana sayfa logic'i)
 ├── Interfaces/    # Veri modelleri ve tip tanımlamaları
 └── assets/        # Görsel materyaller
+
+## [cite_start]Kurulum ve Çalıştırma [cite: 4, 12]
+
+### [cite_start]Ön Gereksinimler [cite: 12]
+
+* [cite_start]Node.js (versiyon 14 veya üzeri) [cite: 12]
+* [cite_start]npm veya yarn [cite: 12]
+
+### [cite_start]Adımlar [cite: 4]
+
+1. [cite_start]**Proje bağımlılıklarını yükleyin:** [cite: 12]
+
+   ```bash
+   npm install
+   ```
+
+2. [cite_start]**Geliştirme sunucusunu başlatın:** [cite: 13]
+
+   ```bash
+   npm run dev
