@@ -60,6 +60,7 @@ Proje klasörüne gidin ve gerekli kütüphaneleri yüklemek için terminale şu
 ### 4. Uygulamayı Başlatıneliştirme sunucusunu başlatmak için aşağıdaki komutu kullanın:
 
 ```bash
-   npm run dev ```
+   npm run dev 
 
+```
 Uygulama hazır olduğunda terminalde bir link belirecektir (genellikle http://localhost:5173). Bu linke tıklayarak tarayıcınızda görüntüleyebilirsiniz.
