@@ -36,7 +36,8 @@ src/
 ├── Pages/         # Home.jsx (Ana sayfa logic'i)
 ├── Interfaces/    # Veri modelleri ve tip tanımlamaları
 └── assets/        # Görsel materyaller
----
+
+ ```
 
 ## 🚀 Kurulum ve Çalıştırma
 
