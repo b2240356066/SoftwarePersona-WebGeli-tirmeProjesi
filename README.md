@@ -2,8 +2,6 @@
 
 **Software Persona 2. Week Project** – Modern, estetik ve işlevsel bir görev yönetim paneli. Bu proje, ReactJS ve Tailwind CSS kullanılarak yapılmıştır.
 
-![Project Preview](https://via.placeholder.com/1000x500/fdf2f8/db2777?text=Project+Preview+Coming+Soon)
-
 ---
 
 ## ✨ Özellikler
