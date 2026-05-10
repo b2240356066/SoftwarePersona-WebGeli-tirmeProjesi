@@ -46,9 +46,9 @@ Bilgisayarınızda **Node.js** (v14 veya üzeri) yüklü olduğundan emin olun.
 
 ### 2. Projeyi İndirin
 Öncelikle repo'yu klonlayın veya ZIP olarak indirin:
-```bash
-git clone [https://github.com/b2240356066/SoftwarePersona-WebGelistirmeProjesi.git](https://github.com/b2240356066/SoftwarePersona-WebGelistirmeProjesi.git)
 
+```bash
+git clone https://github.com/b2240356066/SoftwarePersona-WebGelistirmeProjesi.git
 ### 3. Bağımlılıkları İndirin
 Proje klasörüne gidin ve gerekli kütüphaneleri yüklemek için terminale şu komutu yazın:
 
@@ -59,4 +59,34 @@ npm install
 npm run dev
 
 Uygulama hazır olduğunda terminalde bir link belirecektir (genellikle http://localhost:5173). Bu linke tıklayarak tarayıcınızda görüntüleyebilirsiniz.
+
+
+
+
+
+
+
+Proje bağımlılıklarını yükleyin:
+
+Bash
+npm install
+Geliştirme sunucusunu başlatın:
+
+Bash
+npm run dev
+Backend sunucusunu çalıştırın:
+
+Bash
+npm install
+Yeni bir terminal açın.
+
+server klasörüne gidin:
+
+Bash
+cd server
+Sunucuyu başlatın:
+
+Bash
+node index.js
+Artık uygulamanız http://localhost:5173 adresinde çalışıyor olmalı!
 
