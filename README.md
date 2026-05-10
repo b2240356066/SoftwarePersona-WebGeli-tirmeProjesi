@@ -38,3 +38,27 @@ src/
 ├── Pages/         # Home.jsx (Ana sayfa logic'i)
 ├── Interfaces/    # Veri modelleri ve tip tanımlamaları
 └── assets/        # Görsel materyaller
+
+## 🚀 Kurulum ve Çalıştırma
+
+Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+
+### 1. Ön Gereksinimler
+Bilgisayarınızda **Node.js** (v14 veya üzeri) yüklü olduğundan emin olun.
+
+### 2. Projeyi İndirin
+Öncelikle repo'yu klonlayın veya ZIP olarak indirin:
+```bash
+git clone [https://github.com/b2240356066/SoftwarePersona-WebGelistirmeProjesi.git](https://github.com/b2240356066/SoftwarePersona-WebGelistirmeProjesi.git)
+
+### 3. Bağımlılıkları İndirin
+Proje klasörüne gidin ve gerekli kütüphaneleri yüklemek için terminale şu komutu yazın:
+
+npm install
+
+### 4. Uygulamayı Başlatıneliştirme sunucusunu başlatmak için aşağıdaki komutu kullanın:
+
+npm run dev
+
+Uygulama hazır olduğunda terminalde bir link belirecektir (genellikle http://localhost:5173). Bu linke tıklayarak tarayıcınızda görüntüleyebilirsiniz.
+
