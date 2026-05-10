@@ -36,6 +36,7 @@ src/
 ├── Pages/         # Home.jsx (Ana sayfa logic'i)
 ├── Interfaces/    # Veri modelleri ve tip tanımlamaları
 └── assets/        # Görsel materyaller
+---
 
 ## 🚀 Kurulum ve Çalıştırma
 
@@ -57,7 +58,7 @@ Proje klasörüne gidin ve gerekli kütüphaneleri yüklemek için terminale şu
 ```bash
    npm install
    ```
-### 4. Uygulamayı Başlatıneliştirme sunucusunu başlatmak için aşağıdaki komutu kullanın:
+### 4. Uygulamayı Başlatın Geliştirme sunucusunu başlatmak için aşağıdaki komutu kullanın:
 
 ```bash
    npm run dev 
