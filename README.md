@@ -1,16 +1,40 @@
-# React + Vite
+# Dev-Log Dashboard (My To-Do List) 🌸
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Software Persona 2. Week Project** – Modern, estetik ve işlevsel bir görev yönetim paneli. Bu proje, ReactJS ve Tailwind CSS kullanılarak yapılmıştır.
 
-Currently, two official plugins are available:
+![Project Preview](https://via.placeholder.com/1000x500/fdf2f8/db2777?text=Project+Preview+Coming+Soon)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Özellikler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Bu uygulama, bir modern web uygulamasında olması gereken temel **CRUD** (Create, Read, Update, Delete) operasyonlarını tam kapsamlı olarak sunar:
 
-## Expanding the ESLint configuration
+* **Ekleme (Create):** Yüksekliği artırılmış, odaklanması kolay devasa bir girdi alanı ile yeni görevler ekleme.
+* **Listeleme (Read):** Görevlerin ana ekranda düzenli ve hiyerarşik bir şekilde gösterimi.
+* **Güncelleme (Update):** Görevlerin tamamlanma durumunu (Toggle) değiştirme ve görev metnini düzenleme.
+* **Silme (Delete):** Gereksiz görevlerin tek tıkla sistemden kaldırılması.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Teknoloji Yığını
+
+Proje, modern frontend geliştirme standartları takip edilerek inşa edilmiştir:
+
+* **[ReactJS](https://reactjs.org/):** Bileşen tabanlı UI geliştirme.
+* **[Tailwind CSS](https://tailwindcss.com/):** Utility-first CSS yaklaşımı ile hızlı ve özgün tasarım.
+* **[Vite](https://vitejs.dev/):** Yeni nesil hızlı geliştirme ortamı ve build aracı.
+* **Lucide Icons / Emoji:** Görsel zenginlik ve kullanıcı deneyimi.
+
+---
+
+## 📂 Proje Yapısı
+
+Ödev yönergesine uygun olarak yapılandırılmış dosya ağacı:
+
+```text
+src/
+├── Components/    # AddTask.jsx, TaskItem.jsx gibi bileşenler
+├── Pages/         # Home.jsx (Ana sayfa logic'i)
+├── Interfaces/    # Veri modelleri ve tip tanımlamaları
+└── assets/        # Görsel materyaller
