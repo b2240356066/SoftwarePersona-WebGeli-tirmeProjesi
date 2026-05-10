@@ -49,7 +49,7 @@ Bilgisayarınızda **Node.js** (v14 veya üzeri) yüklü olduğundan emin olun.
 
 ```bash
 git clone https://github.com/b2240356066/SoftwarePersona-WebGelistirmeProjesi.git
-```
+   ```
 
 ### 3. Bağımlılıkları İndirin
 Proje klasörüne gidin ve gerekli kütüphaneleri yüklemek için terminale şu komutu yazın:
