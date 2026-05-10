@@ -37,22 +37,25 @@ src/
 ├── Interfaces/    # Veri modelleri ve tip tanımlamaları
 └── assets/        # Görsel materyaller
 
-## [cite_start]Kurulum ve Çalıştırma [cite: 4, 12]
+## 🚀 Kurulum ve Çalıştırma
 
-### [cite_start]Ön Gereksinimler [cite: 12]
+Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
-* [cite_start]Node.js (versiyon 14 veya üzeri) [cite: 12]
-* [cite_start]npm veya yarn [cite: 12]
+### 1. Ön Gereksinimler
+Bilgisayarınızda **Node.js** (v14 veya üzeri) yüklü olduğundan emin olun.
 
-### [cite_start]Adımlar [cite: 4]
+### 2. Projeyi İndirin
+Öncelikle repo'yu klonlayın veya ZIP olarak indirin:
 
-1. [cite_start]**Proje bağımlılıklarını yükleyin:** [cite: 12]
+```bash
+git clone https://github.com/b2240356066/SoftwarePersona-WebGelistirmeProjesi.git
+### 3. Bağımlılıkları İndirin
+Proje klasörüne gidin ve gerekli kütüphaneleri yüklemek için terminale şu komutu yazın:
 
-   ```bash
-   npm install
-   ```
+npm install
 
-2. [cite_start]**Geliştirme sunucusunu başlatın:** [cite: 13]
+### 4. Uygulamayı Başlatıneliştirme sunucusunu başlatmak için aşağıdaki komutu kullanın:
 
-   ```bash
-   npm run dev
+npm run dev
+
+Uygulama hazır olduğunda terminalde bir link belirecektir (genellikle http://localhost:5173). Bu linke tıklayarak tarayıcınızda görüntüleyebilirsiniz.
